@@ -12,6 +12,9 @@ A smart contract that stores ether and can be accessed by privileged members onl
 - Metamask
 - Infura
 
+## User Interface
+
+![](Screenshot%20(21).png)
 ## Installations
 
 1. Install truffle, Angular CLI and an Ethereum client. If you don't have a test environment, we recommend ganache-cli.
